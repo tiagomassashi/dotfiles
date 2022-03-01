@@ -1,6 +1,15 @@
 [user]
 	name = Tiago Massashi Nagata
-	email = tiago.nagata@outlook.com
+	email = 59301876+tiagomassashi@users.noreply.github.com
+[push]
+        default = simple
+[color]
+        status = auto
+        diff = auto
+        branch = auto
+        interactive = auto
+        grep = auto
+        ui = auto
 [credential]
 	helper = osxkeychain
 [alias]
