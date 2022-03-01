@@ -25,7 +25,7 @@ brew install iterm2 --cask
 [Download Caskaydia Cove Nerd Font](https://www.nerdfonts.com/font-downloads)
 
 ```bash
-# Clone 
+# Clone Powerlevel10k Theme
 cd ~ && git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
