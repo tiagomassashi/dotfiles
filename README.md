@@ -1,3 +1,5 @@
+![cover](./images/cover.png)
+
 # dotfiles
 
 ```bash
