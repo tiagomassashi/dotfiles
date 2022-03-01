@@ -111,6 +111,7 @@ source ~/.powerlevel10k/powerlevel10k.zsh-theme
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# Configurando diretorio home
+# Configurando alias
 alias home='cd ~'
 alias cls='clear'
+alias subl="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
