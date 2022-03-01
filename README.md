@@ -25,3 +25,9 @@ ln -s ~/.dotfiles/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
 ln -s ~/.dotfiles/.p10k.zsh ~/.p10k.zsh
 ```
+
+## How to extract current installed files?
+
+```bash
+cd ~/.dotfiles && brew bundle dump --force && git add . && git commit -m "file(Brewfile): update file" && git push
+```
